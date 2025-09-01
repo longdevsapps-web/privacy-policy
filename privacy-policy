@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Workout Tracker</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; line-height: 1.6; color: #222; padding: 0 16px; }
+    h1 { color: #7C3AED; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy – Workout Tracker</h1>
+  <p>We respect your privacy. This policy explains how our app handles your data.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>Workout sessions, exercises, sets, and progress photos are stored only on your device using local storage (Hive).</p>
+
+  <h2>2. How We Use Data</h2>
+  <p>Your data is used solely to provide workout tracking and related features. We do not collect, sell, or share your personal data.</p>
+
+  <h2>3. Camera Permissions</h2>
+  <p>The app requests camera access only to let you capture progress photos. Photos are stored locally on your device and are never uploaded or shared by us.</p>
+
+  <h2>4. Data Sharing</h2>
+  <p>We do not share your data with any third parties.</p>
+
+  <h2>5. User Controls</h2>
+  <p>You can clear all app data by uninstalling the app or resetting it in device settings.</p>
+
+  <h2>6. Changes to This Policy</h2>
+  <p>If we introduce online or social features in the future, this policy will be updated to explain how your data is handled.</p>
+
+  <h2>7. Contact Us</h2>
+  <p>If you have questions, contact us at <b>long.devs.apps@gmail.com</b>.</p>
+</body>
+</html>
